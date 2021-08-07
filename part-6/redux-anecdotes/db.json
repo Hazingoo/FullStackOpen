@@ -1,0 +1,29 @@
+{
+  "anecdotes": [
+    {
+      "content": "daniel zhang is a human",
+      "votes": 93,
+      "id": 1
+    },
+    {
+      "content": "This is made through redux",
+      "votes": 3,
+      "id": 2
+    },
+    {
+      "content": "will the notification work",
+      "votes": 23,
+      "id": 3
+    },
+    {
+      "content": "kim possible",
+      "votes": 0,
+      "id": 4
+    },
+    {
+      "content": "dancing iruma",
+      "votes": 0,
+      "id": 5
+    }
+  ]
+}
